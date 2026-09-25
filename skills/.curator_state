@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/Users/sylvestershi/.hermes/logs/curator/20260922-113233",
+  "last_run_at": "2026-09-22T11:32:33.123941+00:00",
+  "last_run_duration_seconds": 0.833083,
+  "last_run_summary": "auto: 39 marked stale; llm: skipped (consolidation off)",
+  "last_run_summary_shown_at": "2026-09-04T06:04:10.940700+00:00",
+  "paused": false,
+  "run_count": 17
+}
